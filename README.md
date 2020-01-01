@@ -1,6 +1,6 @@
 # RAG
   RAG is a custom tool designed to create custom reverse shells in a matter of seconds, it allows for user customization to create quick and powerfull shells straight off the get go. 
-  ! [How A Normal Shell Works] (https://github.com/backslash/RAG/blob/master/Reverse-Shell-illustration.png)
+[How A Normal Shell Works](https://github.com/backslash/RAG/blob/master/Reverse-Shell-illustration.png)
   
  ## Setup
   Setting up RAG is as easy as can be. First off you can either download rag by running setup.py or you can do it by installing each module through the requirements.txt
