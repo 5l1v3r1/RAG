@@ -30,9 +30,9 @@ StartupTime = How long the file should take for bootup (This is to help it avoid
   Once you have generated your shell you can open up your server.py this contains the ability to send commands to the target host once its connected. Warning though it is pre configured to go through port 80. If you dont want it using port 80 just go inside the file and change the value of port.
   
   ## To Do List
-  [ ] Add multiple connections to the server
-  [ ] Add a larger range of configurable options
-  [ ] Make the UI slighly better.
+  ! [ ] Add multiple connections to the server
+  ! [ ] Add a larger range of configurable options
+  ! [ ] Make the UI slighly better.
 
   ## Disclaimer 
     I am not responsible for how you choose to use RAG. This is a hacking tool for read teamers or just people interested in the functionality of reverse shells. I am not responsible for your choices.
